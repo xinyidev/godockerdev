@@ -1,8 +1,8 @@
 # go docker 运行
 
-##GoLand环境
+## GoLand环境
 
-###docker开启远程访问
+### docker开启远程访问
 
 查看docker配置文件
 ```
@@ -29,7 +29,7 @@ systemctl daemon-reload
 systemctl restart docker
 ```
 
-###配置GoLand
+### 配置GoLand
 ![image](https://ftp.bmp.ovh/imgs/2021/04/ab20f249f0976641.png)
 
 点击运行即可
